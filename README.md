@@ -1,5 +1,5 @@
-div id="header" align="center">
-  <img src="https://c.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" width="200"/>
+<div id="header" align="center">
+  <img src="[https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47sbbllx3h39i6p6r6epdx9kohpw93ymyjbxy31tla&rid=giphy.gif&ct=g](https://c.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif)" width="200"/>
 
 ### Hello there 👋
 
