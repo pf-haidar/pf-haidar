@@ -1,4 +1,7 @@
-### Hi there 👋
+div id="header" align="center">
+  <img src="https://c.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" width="200"/>
+
+### Hello there 👋
 
 <!--
 **pf-haidar/pf-haidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
