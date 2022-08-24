@@ -17,8 +17,8 @@
   </div>
   
 <h1>
-  <img src="https://static.wikia.nocookie.net/disneyemojiblitz/images/9/92/EmojiBlitzObi-WanKenobi1.png/revision/latest?cb=20220726120305" weight="20" height="20"/>
-  <b>Hello There 🗿</b>
+  <b>Hello There</b>
+  <img src="https://static.wikia.nocookie.net/disneyemojiblitz/images/9/92/EmojiBlitzObi-WanKenobi1.png/revision/latest?cb=20220726120305" weight="40" height="40"/>
  </h1>
 
 <!--
