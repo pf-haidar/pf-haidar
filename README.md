@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pf-haidar&show_icons=true&theme=monokai" alt="Pedro's github stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pf-haidar&show_icons=true&theme=vision-friendly-dark" alt="Pedro's github stats" />
 </p>
 
 <p align="center">
