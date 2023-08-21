@@ -21,8 +21,6 @@
     <br>
     I'm a software developer, mainly focus in mobile 📱
     <br>
-    Someday I'll be a game dev, dattebayo!
-    <br>
     Passionate for pixel art
   </samp>
 </p>
