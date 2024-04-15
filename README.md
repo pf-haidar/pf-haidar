@@ -19,7 +19,7 @@
   <samp>
     My name is Pedro Haidar F.
     <br>
-    I'm a software developer, mainly focus in mobile 📱
+    I'm a software developer, mainly focus in mobile and back-end applications
     <br>
     Passionate for pixel art
   </samp>
