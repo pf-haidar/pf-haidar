@@ -28,11 +28,12 @@
 ### - Languages and Frameworks...
 
 <p>
+  <code><img height="32" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="CSharp" title='CSharp'/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" title='Flutter'/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart" title='Dart'/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" title='Kotlin'/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" title='JavaScript'/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" title='TypeScript'/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" title='Kotlin'/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title='Python'/></code>
 <!--   <code><img height="32" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" alt="ReactNative" title='ReactNative'/></code> -->
   <code><img height="32" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" alt="Cypress" title='Cypress'/></code>
@@ -40,7 +41,6 @@
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Html" title='Html'/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" title='CSS'/></code>
   <code><img height="32" src="https://i.pinimg.com/originals/86/ad/01/86ad01aac334ed269e9d33dab95a2217.png" alt="Java" title='Java'/></code>
-  <code><img height="32" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="CSharp" title='CSharp'/></code>
 </p>
 
 ### - SGBDs and Cloud Tools...
